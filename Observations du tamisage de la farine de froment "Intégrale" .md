@@ -2,7 +2,9 @@
 date: 2020-11-16T06:17
 ---
 
-# Observations du tamisage de la farine de froment "Intégrale" 
+# Observations du tamisage de la farine de froment "Intégrale de Jacques"
 
-Write your Markdown content here. Read [neuron documentation](https://neuron.zettel.page/2011404.html) for syntax help.
+La mouture dans le moulin de Tromcourt est en grosse partie une mouture de concassage. On peut voir clairement dans la farine intégrale, après tamisage, les issues suivantes:
+
+- 
 
